@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish
-- 👀 I’m interested in Ml,FRONT END
+- 👀 I’m interested in Ml,Data Science
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me subudhi138@gmail.com
